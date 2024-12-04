@@ -1,1 +1,0 @@
-Testing GITHUB_TOKEN permissions
